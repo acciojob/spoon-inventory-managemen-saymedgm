@@ -10,17 +10,14 @@ public class Spoon {
     }
 
     public String getName() {
-    	//your code goes here
         return name;
     }
 
     public int getQuantity() {
-    	//your code goes here
         return quantity;
     }
 
     public void setQuantity(int quantity) {
-    	//your code goes here
         this.quantity = quantity;
     }
 }
